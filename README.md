@@ -1,5 +1,6 @@
 ### Kiyan Carre Programming Portfolio
-![IMG_1296](https://user-images.githubusercontent.com/50528630/141407818-76ed1830-a1f9-42dd-bfbb-d990106a2e93.jpg)
+
+![IMG_1296](https://user-images.githubusercontent.com/50528630/141411718-03808784-1baa-4ea7-8a86-0a3b5c711b09.png)
 
 [View my Profile] (https://github.com/KCarre)
 
