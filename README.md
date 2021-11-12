@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+### Kiyan Carre Programming Portfolio
+![IMG_1296](https://user-images.githubusercontent.com/50528630/141407818-76ed1830-a1f9-42dd-bfbb-d990106a2e93.jpg)
 
-You can use the [editor on GitHub](https://github.com/KCarre/kcarre.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[View my Profile] (https://github.com/KCarre)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Feykeeper an Adventrue Game
+  A game that was developed to show basic object oriented principals and concepts like calling methods creating logical statements and creating veriables that effect the final     state of the game.
+  ![Feykeeper](https://user-images.githubusercontent.com/50528630/141410133-f8ed32ce-297e-4c27-8f15-4abb7eb702cb.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Find the file here](https://github.com/KCarre/kcarre.github.io/files/7524821/AdventureGameFinal.zip)
 
-```markdown
-Syntax highlighted code block
+## Adopt A Robot
+   A program created to understand how to create a class and call object instances of that class
+[Find the file here](https://github.com/KCarre/kcarre.github.io/files/7524804/Adobt_a_Robot.zip)   
 
-# Header 1
-## Header 2
-### Header 3
+## Guessing Game
+   A game that makes the player guess what the computer is thinking. Its used to explore random number generation and  user interaction.
+[Find the file here](https://github.com/KCarre/kcarre.github.io/files/7524828/GuessingGame.zip)
 
-- Bulleted
-- List
+## Madlib
+  A program that allows the user to create their own madlibs by entering in words to replace words in  a script. This program explores the use of arrays to hold data and user     imput.
+[Find the file here](https://github.com/KCarre/kcarre.github.io/files/7524831/Madlib.zip)
 
-1. Numbered
-2. List
+## Recursive Pots
+A program where users can enter in a diameter and the program can spit out haw to make recursive pots
+[Find the file here](https://github.com/KCarre/kcarre.github.io/files/7524887/recursive.pots.zip)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KCarre/kcarre.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
